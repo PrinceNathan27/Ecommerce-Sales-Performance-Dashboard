@@ -1,2 +1,3 @@
-# Ecommerce-Sales-Performance-Dashboard
-Ecommerce Sales Performance Analysis Dashboard
+Download the Tableau Desktop and open the .twbx file from this repository to play with this dashboard 
+
+![](KPI.png)
